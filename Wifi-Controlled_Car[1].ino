@@ -25,7 +25,7 @@ int Speed;
 
 char auth[] = "IH3qRho-x8em09UpCj8bzIDFdqMEIBQB"; 
 char ssid[] = "lalala"; 
-char pass[] = "rajesh321"; 
+char pass[] = "rajesh4321"; 
 
 
 void setup() {
